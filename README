@@ -1,0 +1,3 @@
+
+This repository contains some code to get familiar with c++11 lambdas.
+It furthermore shows the use of lambdas when creating a filter with different filter algorithms
